@@ -42,7 +42,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```
-   git clone https://github.com/WiktorKarnia/TicTacToe
+   git clone https://github.com/WiktorKarnia/VoiceAssistant
 
 2. Fire up the VoiceAssistant.py file and try it out.
 
@@ -52,7 +52,7 @@ To get a local copy up and running follow these simple steps.
 
 Email - wiktorkarnia@gmail.com
 
-Project Link: [https://github.com/WiktorKarnia/TicTacToe](https://github.com/WiktorKarnia/TicTacToe)
+Project Link: [https://github.com/WiktorKarnia/VoiceAssistant](https://github.com/WiktorKarnia/VoiceAssistant)
 
 
 
