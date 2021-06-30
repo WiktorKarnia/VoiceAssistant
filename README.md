@@ -23,6 +23,7 @@
 ## About The Project
 
 It's an not so complicated voice assistant written using python. It can:
+
 * tell you the date or hour
 * create a note in which it'll write whatever you want and save it to your computer
 * search for whatever you want on the internet
@@ -30,6 +31,7 @@ It's an not so complicated voice assistant written using python. It can:
 * flip a coin or roll a die
 * play what you'll ask it for from YouTube
 * tell you joke <br>
+
 With commands like: "Tell me about Michael Schumacher" the Assistant will read to you information from Wikipedia about the subject without opening anything , "Play Wrecking Ball by Miley Cyrus" it'll open YouTube on your computer and play the first video which comes up after the search or "Search for pizza" assistant will open your computers browser and show you the results of the search.
 
 ## Getting Started
