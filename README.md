@@ -9,7 +9,7 @@
     <img src="images/Icon.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Tic Tac Toe</h3>
+  <h3 align="center">Voice Assistant</h3>
 
   <p align="center">
     A Google Home or Alexa wannabe with basic voice assistant features.
